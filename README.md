@@ -4,7 +4,10 @@
 **yugu88/yugu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![yugu88's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugu88&show_icons=true&theme=radical)
+![yugu88's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugu88&show_icons=true&theme=highcontrast&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugu88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
