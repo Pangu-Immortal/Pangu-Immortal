@@ -1,9 +1,20 @@
 ### Hi there 👋
 
-<!--
+
 **yugu88/yugu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[！[Anurag的GitHub统计信息]（https://github-readme-stats.vercel.app/api?username=yugu88）]（https://github.com/anuraghazra/github-readme-stats）
+
+![Anurag的GitHub统计信息]（https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true）
+
+![Anurag的GitHub统计信息]（https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true）
+
+![Anurag的GitHub统计信息]（https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical）
+
+[！[Top Langs]（https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact]（https://github.com/anuraghazra/github-readme-stats）
+
+[！[威利安罗德的wakatime统计信息]（https://github-readme-stats.vercel.app/api/wakatime?username=willianrod）]（https://github.com/anuraghazra/github-readme-stats）
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
