@@ -15,4 +15,4 @@
 - ⚡ 兴趣爱好: 篮球、电竞、街舞等……
 
 
-![avatar](https://github.com/Pangu-Immortal/Pangu-Immortal/blob/main/qrcode_for_gh_5d1938320a76_344.jpg)
+![avatar](https://img-blog.csdnimg.cn/bc9ad6c5052a4168a0980a3565dfb87f.png)
