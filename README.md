@@ -16,4 +16,5 @@
 
 QQ 大学生实习群：794834282
 
-![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
+![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg) ![avatar](https://raw.githubusercontent.com/Pangu-Immortal/Pangu-Immortal/main/qrcode_for_gh_5d1938320a76_344.jpg)
+
