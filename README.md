@@ -15,7 +15,5 @@
 - 📫 如何联系我：wisedragon@aliyun.com
 - ⚡ 兴趣爱好: 篮球、电竞、街舞等……
 
-QQ 大学生实习群：794834282
-
 ![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
 
