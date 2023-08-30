@@ -13,6 +13,7 @@
 - 💬 各种Android开发中的疑难问题，欢迎👏给我留言。
 - 📫 如何联系我：wisedragon@aliyun.com
 - ⚡ 兴趣爱好: 篮球、电竞、街舞等……
+- ❤️微ℹ️：svip-crack
 
 ![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
 
