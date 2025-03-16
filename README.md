@@ -13,8 +13,9 @@
 - 💬 各种开发中的疑难问题，欢迎👏给我留言。
 - 📫 如何联系我：wisedragon@aliyun.com
 - ⚡ 兴趣爱好: 篮球、电竞、街舞等……
-- 🚀 Telegram: https://t.me/+V7HSo1YNzkFkY2M1
 
 ## 这里只是冰山一角，进群详聊。
+- 🚀 Telegram群: https://t.me/+V7HSo1YNzkFkY2M1
+
 ![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
 
