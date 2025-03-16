@@ -6,8 +6,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pangu-Immortal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile Banner](https://raw.githubusercontent.com/Pangu-Immortal/Pangu-Immortal/main/getqrcode.png)
-
 ---
 
 ## 🚀 关于我
@@ -72,4 +70,6 @@
 ---
 
 感谢你的关注！期待与你交流技术，共同成长 🚀
+
+![Profile Banner](https://raw.githubusercontent.com/Pangu-Immortal/Pangu-Immortal/main/getqrcode.png)
 
