@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pangu-Immortal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![avatar](https://raw.githubusercontent.com/Pangu-Immortal/Pangu-Immortal/main/qrcode_for_gh_5d1938320a76_344.jpg)
+![avatar](https://raw.githubusercontent.com/Pangu-Immortal/Pangu-Immortal/main/getqrcode.png)
 
 - 🔭 目前正在研究Android16高性能保活技术
 - 🌱 专注于：音视频编解码、Framework系统定制、Ai大模型算法领域。
