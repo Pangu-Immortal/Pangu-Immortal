@@ -15,5 +15,6 @@
 - ⚡ 兴趣爱好: 篮球、电竞、街舞等……
 - 🚀 Telegram: https://t.me/+V7HSo1YNzkFkY2M1
 
+## 这里只是冰山一角，进群详聊。
 ![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
 
