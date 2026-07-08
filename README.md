@@ -31,7 +31,8 @@
 | 方向 | 关键技术 |
 | :--- | :--- |
 | 🕹️ **Agentic 系统** | LangGraph 图编排 · 多智能体协作 · **A2A**(Agent-to-Agent) · **MCP** 工具生态 · **ADK** · 长任务可靠性与自愈 |
-| 🤖 **LLM 应用与落地** | RAG / 结构化输出 / **Eval** 评测体系 / 成本-延迟-质量三角优化 |
+| 🕸️ **知识图谱 & 检索增强** | **GraphRAG** · **KAG**（知识增强生成 / OpenSPG）· LightRAG · HippoRAG · 知识图谱构建（实体-关系抽取·社区发现·多跳推理）· 混合检索 + 重排（ColBERT 后期交互 / Rerank）· Neo4j / NebulaGraph · Milvus / Qdrant |
+| 🤖 **LLM 应用与落地** | 结构化输出 · Function Calling · **Eval** 评测体系 · 成本-延迟-质量三角优化 · 全链路可观测性 |
 | 🎯 **微调与对齐** | SFT · LoRA / QLoRA · **DPO** 偏好对齐 · 数据工程与合成 |
 | ⚡ **推理与加速** | 量化(GGUF / AWQ / GPTQ) · 投机解码 · KV-Cache 优化 · vLLM 服务化 |
 | 🎨 **多模态与生成** | 文生图 / 文生视频 · **ComfyUI** 工作流编排 · **世界模型（World Models）** |
@@ -43,6 +44,8 @@
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph">
 <img src="https://img.shields.io/badge/vLLM-FDB515?style=flat-square" alt="vLLM">
 <img src="https://img.shields.io/badge/MCP-5A67D8?style=flat-square" alt="MCP">
+<img src="https://img.shields.io/badge/GraphRAG-8B5CF6?style=flat-square" alt="GraphRAG">
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j">
 <img src="https://img.shields.io/badge/ComfyUI-6E56CF?style=flat-square" alt="ComfyUI">
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
