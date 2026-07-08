@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=6E56CF&center=true&vCenter=true&width=820&lines=Large+Model+Algorithms+%C2%B7+Edge+AI;Agentic+Systems%3A+LangGraph+%2F+A2A+%2F+MCP+%2F+ADK;On-Device+%26+Offline+Multimodal+Inference;Phone+%2F+Automotive+LLM+%C2%B7+World+Models" alt="typing headline" />
+
 # 大模型算法工程师 · 端侧 AI 专家
 
 **大模型落地 · Agentic 系统 · 端侧 / 离线多模态推理**
