@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=6E56CF&center=true&vCenter=true&width=820&lines=Large+Model+Algorithms+%C2%B7+Edge+AI;Agentic+Systems%3A+LangGraph+%2F+A2A+%2F+MCP+%2F+ADK;On-Device+%26+Offline+Multimodal+Inference;Phone+%2F+Automotive+LLM+%C2%B7+World+Models" alt="typing headline" />
 
-# 大模型算法工程师 · 端侧 AI 专家
+# LLM算法 · 端侧 AI 专家 · Agent 商业化专家
 
 **大模型落地 · Agentic 系统 · 端侧 / 离线多模态推理**
 
@@ -19,7 +19,6 @@
 
 ---
 
-> ### 🚀 我只做一件事：让大模型真正跑起来 —— 在云端，更在你手里的设备上。
 > 从 **Agentic 系统编排**，到把大模型塞进**手机、车机、离线终端**独立推理。模型不确定，工程要确定。
 
 <br>
@@ -54,9 +53,9 @@
 
 <br>
 
-## 📱 端侧 / 边缘 AI —— 我的核心战场
+##  Agent 定制 / 📱 端侧 / 边缘 AI —— 我的核心战场
 
-**把大模型从云端拽到设备里：纯离线、独立推理、数据不出端。** 这是我最深的护城河。
+**把大模型从云端拽到设备里：纯离线、独立推理、数据不出端。** 这是将是未来。
 
 - 🪄 **MagicWX** — 端侧多模态推理引擎：手机端**离线**跑通 **语言 / 文生图 / 文生视频**
 - 📴 **手机端离线大模型** — 断网可用的对话、生图、生视频，隐私全程留在本地
@@ -100,9 +99,7 @@
 
 <div align="center">
 
-## 🤝 寻求合作
-
-### **大模型 / Agent 系统落地** · **端侧 / 离线模型部署** · **ROM 定制与逆向工程咨询**
+### **大模型训练 / Agent 系统落地 / 离线模型部署 / ROM 定制与逆向工程咨询**
 
 带着真实问题来，我们把它跑通。
 
@@ -110,6 +107,6 @@
 
 <a href="mailto:yugu88@126.com"><img src="https://img.shields.io/badge/%F0%9F%93%AE%20%E5%90%88%E4%BD%9C%E9%82%AE%E7%AE%B1-yugu88@126.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<sub>大模型落地 · 端侧多模态推理 · Agentic 系统 · 系统级与逆向工程</sub>
+<sub>Agentic 系统定制 · 大模型落地 · 系统级开发与逆向工程</sub>
 
 </div>
