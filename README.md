@@ -53,7 +53,7 @@
 
 <br>
 
-##  Agent 定制 / 📱 端侧 / 边缘 AI —— 我的核心战场
+##  Agent 定制 / 📱 端侧 / 边缘 AI
 
 **把大模型从云端拽到设备里：纯离线、独立推理、数据不出端。** 这是将是未来。
 
@@ -105,7 +105,7 @@
 
 <br>
 
-<a href="mailto:yugu88@126.com"><img src="https://img.shields.io/badge/%F0%9F%93%AE%20%E5%90%88%E4%BD%9C%E9%82%AE%E7%AE%B1-yugu88@126.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:yugu88@126.com"><img src="https://img.shields.io/badge/%F0%9F%93%AE%E9%82%AE%E7%AE%B1-yugu88@126.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <sub>Agentic 系统定制 · 大模型落地 · 系统级开发与逆向工程</sub>
 
