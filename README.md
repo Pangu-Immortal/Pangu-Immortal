@@ -4,9 +4,6 @@
 
 </div>
 
-<p align="center">
-  <b>如果觉得有帮助，请点击 <a href="https://github.com/Pangu-Immortal/Pangu-Immortal/stargazers">Star</a> 支持一下，关注不迷路！</b>
-</p>
 
 <div align="center">
 
@@ -124,10 +121,6 @@
 </div>
 ---
 
-## Star 趋势
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Pangu-Immortal/Pangu-Immortal&type=Date)](https://star-history.com/#Pangu-Immortal/Pangu-Immortal&Date)
-
 ## 联系与交流
 
 <p align="center">
@@ -144,9 +137,5 @@
 </p>
 
 **更多入口**：[GitHub 主页](https://github.com/Pangu-Immortal) · [Telegram 群](https://t.me/+MH0wU421vyQwYzBl) · [官网](https://mengqihome.cn)
-
-## 许可
-
-本项目采用 [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) 授权：**允许非商业目的的使用、修改与分发；禁止任何商业性使用**。商业授权请联系 [yugu88@126.com](mailto:yugu88@126.com)。
 
 <!-- managed-block:v2 -->
